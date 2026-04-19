@@ -3,7 +3,7 @@
         "id": "airisx",
         "jobPicture": "airisx.png",
         "jobColor": "#006fff",
-        "jobTitle": "Junior Web Developer",
+        "jobTitle": "Web Developer",
         "jobTime": "August 2023 - Present",
         "jobCompany": "airisX Limited Inc.",
         "jobCompanySite": "https://airisx.com/",
@@ -45,12 +45,62 @@
             }
         ]
     },
+       {
+        "id": "upwork",
+        "jobPicture": "upwork.png",
+        "jobColor": "#006fff",
+        "jobTitle": "Full Stack Developer",
+        "jobTime": "January 2021 - Present",
+        "jobCompany": "Upwork",
+        "jobCompanySite": "https://www.upwork.com/",
+        "jobDescription": "Design, develop, and maintain responsive, high-performing websites and web applications, ensuring seamless functionality and an intuitive user experience.",
+        "jobActivities": [
+            "Designed and developed high-quality, fully responsive websites using Wix, WordPress, and Duda, applying modern design principles to deliver an exceptional user experience.",
+            "Built a dynamic aviation application with a focus on performance optimization, intuitive navigation and seamless user interaction.",
+            "Created comprehensive UI/UX designs, incorporating user research, wireframing, and prototyping to deliver aesthetic interface.",
+            "Implemented backend functionality and integrated APIs, ensuring scalable, secure, and efficient full-stack web development."
+        ],
+        "jobTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            },
+            {
+                "name": "Mailchimp",
+                "icon": "mailchimp"
+            },
+            {
+                "name": "WordPress",
+                "icon": "wordpress"
+            },
+            {
+                "name": "Wix",
+                "icon": "wix"
+            },
+            {
+                "name": "Duda",
+                "icon": "duda"
+            }
+        ]
+    },
     {
         "id": "codebility",
         "jobPicture": "codebility.jpg",
         "jobColor": "#006fff",
         "jobTitle": "Web Developer",
-        "jobTime": "July 2024 - Present",
+        "jobTime": "July 2024 - December 2024",
         "jobCompany": "Codebility",
         "jobCompanySite": "https://codebility.tech/",
         "jobDescription": "Design, build, and maintain dynamic and responsive websites, implementing front-end solutions to enhance user experience and performance.",

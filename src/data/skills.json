@@ -32,12 +32,20 @@
         "skillPicture": "bitbucket.svg"
     },
     {
+        "skillName": "Postman",
+        "skillPicture": "postman.svg"
+    },
+    {
         "skillName": "jQuery",
         "skillPicture": "jquery.svg"
     },
     {
         "skillName": "MySQL",
         "skillPicture": "mysql.svg"
+    },
+    {
+        "skillName": "PostgreSQL",
+        "skillPicture": "postgresql.svg"
     },
     {
         "skillName": "PHP",
@@ -84,6 +92,26 @@
         "skillPicture": "wordpress.svg"
     },
     {
+        "skillName": "Wix",
+        "skillPicture": "wix.svg"
+    },
+    {
+        "skillName": "Shopify",
+        "skillPicture": "shopify.svg"
+    },
+    {
+        "skillName": "Duda",
+        "skillPicture": "duda.svg"
+    },
+    {
+        "skillName": "Mailchimp",
+        "skillPicture": "mailchimp.svg"
+    },
+    {
+        "skillName": "Salesforce",
+        "skillPicture": "salesforce.svg"
+    },
+    {
         "skillName": "NPM",
         "skillPicture": "npm.svg"
     },
@@ -106,5 +134,13 @@
     {
         "skillName": "Asana",
         "skillPicture": "asana.svg"
+    },
+    {
+        "skillName": "OpenAI",
+        "skillPicture": "openai.svg"
+    },
+     {
+        "skillName": "Google Gemini",
+        "skillPicture": "google-gemini.svg"
     }
 ]
